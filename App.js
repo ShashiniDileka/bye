@@ -6,7 +6,7 @@
  * @flow strict-local
  */
 
-import React from 'reactt';
+import React from 'react';
 import {
   SafeAreaView,
   StyleSheet,
